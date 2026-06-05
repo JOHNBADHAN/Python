@@ -1,0 +1,16 @@
+set = set()
+
+s1 = input("enter the value: ")
+set.add(int(s1))
+s2 = input("enter the value: ")
+set.add(int(s2))
+s3 = input("enter the value: ")
+set.add(int(s3))
+s4 = input("enter the value: ")
+set.add(int(s4))
+s5 = input("enter the value: ")
+set.add(int(s5))
+s6 = input("enter the value: ")
+set.add(int(s6))
+
+print(set)
